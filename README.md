@@ -57,4 +57,5 @@ The following Python libraries are used in this project,
   (3) Visit the web app by going to http://0.0.0.0:3001/ 
   
 ## 5. Licensing, authors, acknowledgements <a name="licensing"></a> 
-  Must give credit to Figure 8 for the data. 
+  Must give credit to [Appen](https://appen.com/) (formerly Figure 8) for the data. 
+  Many thanks to [UDacity](https://learn.udacity.com/) for the Data Science nanodegree program
