@@ -1,3 +1,5 @@
+# Disaster Response Pipeline Project
+
 ### Table of contents
 1. [Motivation](#motivation)
 2. [Libraries used](#library)
