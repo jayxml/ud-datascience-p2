@@ -55,7 +55,7 @@ The following Python libraries are used in this project,
       
   (2) Start the web app by entering the following command in the app directory
       
-      `python run.py`
+      python run.py
       
   (3) Visit the web app by going to http://0.0.0.0:3001/ 
   
