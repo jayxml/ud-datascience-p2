@@ -51,7 +51,7 @@ The following Python libraries are used in this project,
       python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
   
       1-b. run the ML pipeline to build, evaluate and save the model
-      python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+      python model/train_classifier.py data/DisasterResponse.db model/classifier.pkl
       
   (2) Start the web app by entering the following command in the app's directory
       
