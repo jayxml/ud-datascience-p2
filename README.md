@@ -6,6 +6,7 @@
 3. [File Descriptions](#files)
 4. [Summary of the analysis](#summary)
 5. [Licensing, authors, acknowledgements](#licensing)
+6. [Screenshots of web app](#screenshots)
 
 ## 1. Motivation <a name="motivation"></a>
 
@@ -62,3 +63,7 @@ The following Python libraries are used in this project,
 ## 5. Licensing, authors, acknowledgements <a name="licensing"></a> 
   Must give credit to [Appen](https://appen.com/) (formerly Figure 8) for the data. 
   Many thanks to [UDacity](https://learn.udacity.com/) for the Data Science nanodegree program
+  
+## 6. Screenshots of web app <a name="screenshots"></a>  
+
+![message classificaiton]./images/message_classification.png
