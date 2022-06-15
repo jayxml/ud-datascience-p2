@@ -57,7 +57,7 @@ The following Python libraries are used in this project,
       
       python run.py
       
-  (3) Visit the web app by going to http://0.0.0.0:3001/ 
+  (3) Visit the web app by going to http://0.0.0.0:3000/ 
   
 ## 5. Licensing, authors, acknowledgements <a name="licensing"></a> 
   Must give credit to [Appen](https://appen.com/) (formerly Figure 8) for the data. 
