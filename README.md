@@ -66,4 +66,7 @@ The following Python libraries are used in this project,
   
 ## 6. Screenshots of web app <a name="screenshots"></a>  
 
-![message classificaiton]./images/message_classification.png
+![message classificaiton](/images/message_classification.png)
+![message categories](/images/g1_message_categories.png)
+![top 5 categories](/images/g2_top5_categories.png)
+![category correlation](/images/g3_category_correlation.png)
